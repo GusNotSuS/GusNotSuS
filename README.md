@@ -1,6 +1,7 @@
 <h1 align="center">Hi, My names is Luiz Gustavo, but you can call me Gus</h1>
 <h3 align="center">I'm a backend developer from brazil</h3>
 
+- Dev Junior focused on API development
 - Currently studying to be a fullstack developer soon
 
 - Contact E-Mail **ggustafreire@outlook.com**
